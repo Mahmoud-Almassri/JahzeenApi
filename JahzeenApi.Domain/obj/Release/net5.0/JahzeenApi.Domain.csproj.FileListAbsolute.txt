@@ -1,0 +1,15 @@
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\JahzeenApi.Domain.deps.json
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\JahzeenApi.Domain.runtimeconfig.json
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\JahzeenApi.Domain.runtimeconfig.dev.json
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\JahzeenApi.Domain.dll
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\ref\JahzeenApi.Domain.dll
+D:\Projects\JahzeenApi\JahzeenApi.Domain\bin\Release\net5.0\JahzeenApi.Domain.pdb
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.csproj.AssemblyReference.cache
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.AssemblyInfoInputs.cache
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.AssemblyInfo.cs
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.dll
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\ref\JahzeenApi.Domain.dll
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.pdb
+D:\Projects\JahzeenApi\JahzeenApi.Domain\obj\Release\net5.0\JahzeenApi.Domain.genruntimeconfig.cache
